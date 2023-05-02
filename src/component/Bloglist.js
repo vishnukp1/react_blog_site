@@ -6,7 +6,7 @@ import {Link} from "react-router-dom"
 
 const Bloglist = () => {
   const state=useContext(UserContext)
- const  {text}=state;
+ 
   
 
   return (
